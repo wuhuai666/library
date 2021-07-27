@@ -101,10 +101,6 @@
 ##### 3.1 查看全部图书
 <img src="./preview/10.png">
 
-##### 3.2 个人信息查看，可以修个个人信息
-<img src="./preview/11.png">
 
-##### 3.3 个人借阅情况查看
-<img src="./preview/12.png">
 
 
