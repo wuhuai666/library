@@ -88,18 +88,7 @@
 ##### 2.1 图书管理
 <img src="./preview/6.png">
 
-##### 2.2 图书详情
-<img src="./preview/7.png">
 
-##### 2.3 读者管理
-<img src="./preview/8.png">
-
-##### 2.4 借还管理
-<img src="./preview/9.png">
-
-#### 3.	读者系统
-##### 3.1 查看全部图书
-<img src="./preview/10.png">
 
 
 
